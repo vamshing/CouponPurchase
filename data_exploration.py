@@ -14,3 +14,11 @@ user_list.USER_ID_hash.describe()
 
 # summary of ages
 user_list.AGE.describe()
+
+#1.Matplot lib of normal curve of age distribution
+#<insert code below>
+
+
+
+#2. Code for number of males and number of females.
+#<insert code below>
