@@ -17,8 +17,9 @@ user_list.AGE.describe()
 
 #1.Matplot lib of normal curve of age distribution
 #<insert code below>
-
-
+import matplotlib.pyplot as plt
+plt.hist(user_list.AGE)
+plt.show()
 
 #2. Code for number of males and number of females.
 #<insert code below>
